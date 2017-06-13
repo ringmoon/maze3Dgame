@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeGame", "MazeGame.csproj", "{BF167D04-A74B-6620-77E4-9E5C598C8289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeGame.Editor", "MazeGame.Editor.csproj", "{F6E8303E-E6B8-C480-D84C-81B61AD01D29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF167D04-A74B-6620-77E4-9E5C598C8289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF167D04-A74B-6620-77E4-9E5C598C8289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF167D04-A74B-6620-77E4-9E5C598C8289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF167D04-A74B-6620-77E4-9E5C598C8289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6E8303E-E6B8-C480-D84C-81B61AD01D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E8303E-E6B8-C480-D84C-81B61AD01D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E8303E-E6B8-C480-D84C-81B61AD01D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E8303E-E6B8-C480-D84C-81B61AD01D29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
